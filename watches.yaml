@@ -1,0 +1,5 @@
+---
+- version: v1alpha1
+  group: blog.velotio.com
+  kind: BookStore
+  role: /opt/ansible/roles/bookstore

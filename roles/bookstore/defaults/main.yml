@@ -1,0 +1,5 @@
+---
+# defaults file for bookstore
+replica_count: 1
+image: akash125/pyapp
+tag: latest
